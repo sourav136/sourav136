@@ -17,7 +17,7 @@ Welcome to my GitHub! I’m a passionate **Frontend Developer** who loves crafti
 
 - **Languages & Frameworks:** HTML, CSS, JavaScript, React, Bootstrap
 - **Accessibility:** WCAG Guidelines
-- **Design Tools:** Photoshop, Illustrator
+- **Design Tools:** Photoshop, Illustrator, Figma
 
 **Soft Skills:**  
 Constant learner • Team oriented • Passionate • Communication • Problem-solving • Adaptability • Attention to detail • Creativity
